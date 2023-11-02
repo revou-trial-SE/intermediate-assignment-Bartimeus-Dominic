@@ -1,0 +1,12 @@
+.bg-image {
+    background: url('/assets/bg\ top.png');
+    background-repeat: no-repeat;
+    min-height: 300px;
+    background-size: cover;
+}
+.welcome-text {
+    color:black;
+}
+/*.col {
+    border: 1px solid black;
+}*/
